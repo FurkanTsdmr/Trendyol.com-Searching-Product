@@ -14,3 +14,5 @@ Feature: Trendyol.com
    </ul>
 
 <hr>
+
+![image](https://user-images.githubusercontent.com/66878884/209951790-6178d959-9097-4c27-9e76-204617064cf3.png)
